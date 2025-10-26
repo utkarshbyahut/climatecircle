@@ -1,5 +1,4 @@
-# Create README.md file
-readme_content = """# Project Overview
+# Project Overview
 
 ## Features
 - Interactive data visualization
@@ -36,4 +35,3 @@ pip install plotly pandas jupyter
 
 ## License
 MIT License
-"""

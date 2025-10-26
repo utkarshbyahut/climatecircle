@@ -105,6 +105,6 @@ Where $\\Delta E$ represents the perceptual color difference in CIELAB space, en
 ---
 
 *This project represents a commitment to elevating data visualization standards through consistent, professional, and accessible chart generation.*
-"""
+
 
 
