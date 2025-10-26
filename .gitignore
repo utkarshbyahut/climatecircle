@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+.DS_Store
+*.egg-info/
+dist/
+build/
+*.log
+protocols/  # Don't commit participant memory files
+data/sample_transcripts/  # Don't commit real participant data
